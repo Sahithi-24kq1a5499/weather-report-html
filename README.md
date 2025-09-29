@@ -7,10 +7,14 @@ A simple and elegant web app that provides real-time weather updates for any cit
 
 **#🚀 Features**
 🌍 Get live weather information for any city.
+
 💻 Responsive and user-friendly design.
 
 **#🧩 Programming**
 HTML – Page structure
+
 CSS – Styling and layout
+
 JavaScript – Fetching data and displaying results
+
 OpenWeatherMap API – Weather data source
