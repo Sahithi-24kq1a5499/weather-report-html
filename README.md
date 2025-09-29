@@ -6,11 +6,13 @@ Weather Info App is a simple web application that allows users to check the curr
 A simple and elegant web app that provides real-time weather updates for any city using the OpenWeather API.
 
 **#🚀 Features**
+
 🌍 Get live weather information for any city.
 
 💻 Responsive and user-friendly design.
 
 **#🧩 Programming**
+
 HTML – Page structure
 
 CSS – Styling and layout
